@@ -11,8 +11,6 @@
 
 [UniKeyMap: Capslock Enhance in Linux, Mac, Windows | 在三个操作系统中统一的 Capslock 强化脚本](https://github.com/RUSRUSHB/UniKeyMap)
 
-[TopoGO: Gain invariant from a knot image. 识别扭结图片获得其拓扑不变量。](https://github.com/RUSRUSHB/TopoGO)
-
 [论科幻的定义——《科幻文学论纲》摘抄](https://github.com/RUSRUSHB/Define_ScienceFiction/blob/main/%E5%AE%9A%E4%B9%89%E7%A7%91%E5%B9%BB_%E5%85%B3%E4%BA%8E%E7%A7%91%E5%B9%BB%E5%AE%9A%E4%B9%89%E7%9A%84%E8%AE%BA%E8%BF%B0%E5%90%88%E9%9B%86___%E7%A7%91%E5%B9%BB%E6%96%87%E5%AD%A6%E8%AE%BA%E7%BA%B2_%E6%91%98%E6%8A%84.pdf)
 
 [iOS 高级中文键盘布局「四方宇」](https://github.com/RUSRUSHB/Tetrapath_layout)
